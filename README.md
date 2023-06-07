@@ -1,5 +1,5 @@
 ![logo](https://github.com/hafizuddinfakhrullah/hafizuddinfakhrullah/blob/main/githubBanner.jpg)
-<h1 align="center">Hi 👋, I'm HAFIZUDDI FAKHRULLAH</h1>
+<h1 align="center">Hi 👋, I'm HAFIZUDDIN FAKHRULLAH</h1>
 <h3 align="center">I'm a passionate developer but more importantly, I'm passion about technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif"
 
